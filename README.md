@@ -1,1 +1,1 @@
-# Wild-Life-Recognition-System-
+# Wild-life-detection-system
