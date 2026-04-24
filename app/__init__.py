@@ -1,0 +1,1 @@
+"""Wildlife detector application package."""

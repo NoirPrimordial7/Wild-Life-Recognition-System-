@@ -1,9 +1,7 @@
-pillow
-numpy
+tensorflow
 opencv-python
+numpy
+pillow
 h5py
-# For CPU-only TensorFlow on Windows, use one of the following (uncomment your choice):
-# tensorflow
-# tensorflow-cpu
-
-# If you want a specific version, pin it like: tensorflow==2.14.1
+customtkinter
+imageio-ffmpeg

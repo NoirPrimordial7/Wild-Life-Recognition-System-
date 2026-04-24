@@ -1,0 +1,15 @@
+venv/
+myenv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.idea/
+*.zip
+Wild-life-detection-system/
+python-*.exe
+JungleAdventurer.ttf
+
+!models/*.h5
+!data/*.json

@@ -1,0 +1,22 @@
+Wildlife Detection Report
+=========================
+Generated: 2026-04-24 15:50:23
+Source: Video: test.mp4
+Displayed prediction: cane
+Best guess: cane
+Confidence: 100.00%
+
+Top 5 Predictions:
+- cane: 100.00%
+- dog: 0.00%
+- ragno: 0.00%
+- gallina: 0.00%
+- farfalla: 0.00%
+
+Animal Information:
+Cane:
+  SCIENTIFIC_NAME: SACCHARUM OFFICINARUM
+  FAMILY: POACEAE
+  LIFESPAN: 5-10 YEARS
+  HABITAT: TROPICAL REGIONS
+  HOSTILE: False

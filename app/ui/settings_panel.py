@@ -1,0 +1,5 @@
+from __future__ import annotations
+
+SECTION_NAME = "AI Settings"
+DEFAULT_CONFIDENCE_THRESHOLD = 50.0
+DEFAULT_WEBCAM_INTERVAL_SECONDS = 0.9

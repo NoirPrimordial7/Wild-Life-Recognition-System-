@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-04-24 16:57:40",
+  "source": "Wikimedia/Wikipedia public images where available",
+  "force": false,
+  "limit": 10,
+  "only": [],
+  "results": [
+    {
+      "class_name": "Bear",
+      "local_file_path": "assets\\animal_reference_images\\bear.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Black Sea Sprat",
+      "local_file_path": "assets\\animal_reference_images\\black_sea_sprat.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Brown bear",
+      "local_file_path": "assets\\animal_reference_images\\brown_bear.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Bull",
+      "local_file_path": "assets\\animal_reference_images\\bull.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Butterfly",
+      "local_file_path": "assets\\animal_reference_images\\butterfly.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Camel",
+      "local_file_path": "assets\\animal_reference_images\\camel.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Canary",
+      "local_file_path": "assets\\animal_reference_images\\canary.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Caterpillar",
+      "local_file_path": "assets\\animal_reference_images\\caterpillar.jpg",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    },
+    {
+      "class_name": "Cattle",
+      "local_file_path": null,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+      "source_title": "Cattle",
+      "download_status": "failed",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "class_name": "Centipede",
+      "local_file_path": "assets\\animal_reference_images\\centipede.png",
+      "source_url": null,
+      "source_title": null,
+      "download_status": "skipped_existing",
+      "error": null
+    }
+  ],
+  "counts": {
+    "requested": 10,
+    "downloaded": 0,
+    "skipped_existing": 9,
+    "failed": 1
+  }
+}
