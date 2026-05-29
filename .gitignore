@@ -13,3 +13,77 @@ JungleAdventurer.ttf
 
 !models/*.h5
 !data/*.json
+
+# Added by safe GitHub backup
+# Secrets
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.crt
+credentials.json
+token.json
+serviceAccount*.json
+firebase-adminsdk*.json
+google-services.json
+GoogleService-Info.plist
+secrets/
+private/
+keys/
+# Node
+node_modules/
+.next/
+dist/
+build/
+out/
+.vite/
+.turbo/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Python
+.venv/
+env/
+**/__pycache__/
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+# Java / Android / Flutter
+.gradle/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+# Logs and temp
+*.log
+tmp/
+temp/
+*.tmp
+# OS / editor
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+# AI / ML large files
+*.h5
+*.keras
+*.tflite
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.safetensors
+*.ckpt
+datasets/
+dataset/
+models/
+model/
+checkpoints/
+outputs/
+generated/
+runs/
+loras/
+LoRA/
